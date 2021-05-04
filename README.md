@@ -5,6 +5,8 @@ For this project, I use a multiple linear regression algorithm to predict the fi
 
 This project is not yet finished. I would like to continue to work on the regression model as well as factor more variables into the simulation.
 
+If you'd like to run this on your own and get more variety in your standings, you can remove random_state when training the model.
+
 ## Programs & Packages
 - **Python**: Version 3.7
 - **Packages**: sklearn, pandas, numpy, seaborn, matplotlib
